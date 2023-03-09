@@ -1,4 +1,4 @@
 ### Olá! Eu sou Luan 💫
 
-[![Blog](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)]
+[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-luciano-1603b4197/)
 
