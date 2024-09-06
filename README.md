@@ -11,17 +11,6 @@ I'm a backend developer with a strong foundation in Java and Spring Boot, and I'
 🌱 Actively learning Angular to enhance my front-end skills.  
 🤝 Open to collaborating on open-source projects and contributing to the developer community.
 
-### Recent Project
-
-#### Form Management System with Angular
-
-Check out my latest project where I built a form management system using Angular. This project features:
-
-- **Dynamic Form Handling**: Add, edit, and manage user information with a reactive form.
-- **Form Validation**: Error messages are displayed only after the form submission if any fields are invalid.
-- **Local Storage Integration**: Data is saved and retrieved from `localStorage` for persistence across sessions.
-
-Explore this project on my [GitHub repository](#) to see how Angular and TypeScript can be used to create interactive and dynamic web applications.
 
 ### Social
 
