@@ -1,6 +1,6 @@
-### Hi There! 💫
+## Hi There! 💫
 
-## My name is Luan Luciano
+### My name is Luan Luciano
 (Java | Spring Boot | Angular | TypeScript | JavaScript | HTML | CSS) 🚀
 
 ### About Me
