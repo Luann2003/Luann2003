@@ -5,6 +5,8 @@
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luann2003&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
