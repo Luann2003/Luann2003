@@ -1,4 +1,4 @@
-## Hi There! 💫
+## Hello, I'm Luan Luciano 👋
 
 ### My name is Luan Luciano
 (Java | Spring Boot | Angular | TypeScript | JavaScript | HTML | CSS) 🚀
